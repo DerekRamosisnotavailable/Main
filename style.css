@@ -172,6 +172,9 @@
     max-width: 400px;
     margin:50px auto ;
 }
+  .contactpara{
+    text-align: center;
+}
 
   .Contact {
     text-align: center;
@@ -210,4 +213,5 @@
     .contact-box {
     padding: 15px;
 }
+
 }
